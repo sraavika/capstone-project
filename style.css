@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+
+div{
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+}
+
+.topnav {
+    background-color: rgb(206, 135, 228);
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(37, 152, 228);
+    color: rgb(0, 0, 0);
+  }
+ 
+  .topnav a.active {
+    background-color: #319de6;
+    color: white;
+  }
+
+  body {
+    background-color: #f0d0ff;
+    }
+   
+    .issues img {
+      text-align: center;
+    }
+
+    .solutions{
+      text-align:left ;
+    }
+
+  
